@@ -46,7 +46,7 @@ e: $ mv main.2.org.cocos2dx.hellocpp.obb org.cocos2dx.hellocpp/
 
 a: android:versionCode="2"にする
 
-b: <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>追加
+b: uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"追加
 
 7: デバイスに実行
 
